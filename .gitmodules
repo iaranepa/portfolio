@@ -1,6 +1,4 @@
-[submodule "portfolio"]
-	path = portfolio
-	url = https://github.com/iaranepa/Desafio_evaluado_Analisis_Discriminante
+
 [submodule "RandomForest"]
 	path = RandomForest
 	url = https://github.com/iaranepa/Desafio_evaluado_Ramdom_Forest
